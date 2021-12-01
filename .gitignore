@@ -1,0 +1,5 @@
+# Ignore all Input files (assuming these are all .txt files)
+**/*.txt
+
+# Ignore all Python Notebook files
+**/*.ipynb
